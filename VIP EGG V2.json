@@ -1,0 +1,31 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v2",
+        "update_url": null
+    },
+    "exported_at": "2023-03-09T10:48:41+07:00",
+    "name": "PM2 VIP BY MANZZ",
+    "author": "manzz@gmail.com",
+    "description": "egg nodejs pterodactyl nodejs v18, auto install speedtest, ffmpeg, imagemagick",
+    "features": null,
+    "docker_images": {
+        "DOCKER VIP BY MANZZ X CEKIL": "ghcr.io\/cekilpedia\/node:manz"
+    },
+    "file_denylist": [],
+    "startup": "SILAHKAN START SERVER, JALANKAN SEMUA PERINTAH DI COMMAND !!",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"running\"\r\n}",
+        "logs": "{}",
+        "stop": "^^c"
+    },
+    "scripts": {
+        "installation": {
+            "script": "# YNTKTS WKWK\r\n# IDUP JANGAN KEBANYAKAN RECODE :)\r\n# FOLLOW IG @manzz_xyze",
+            "container": "node:18-buster-slim",
+            "entrypoint": "bash"
+        }
+    },
+    "variables": []
+}
